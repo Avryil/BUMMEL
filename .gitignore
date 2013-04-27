@@ -10,9 +10,6 @@ build/
 /BrandingModule/nbproject/private/
 /VLEditor/nbproject/private/
 /VisualEditor/nbproject/private/
-/branding/target/
-/branding/nbproject/private/
-/branding/build/
 
 # Compiled source #
 ###################
@@ -32,8 +29,6 @@ build/
 *.gz
 *.iso
 *.jar
-!*.jar/
-!*.jar/*
 *.rar
 *.tar
 *.zip
